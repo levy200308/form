@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "320082352995",
+    "project_id": "fir-form-b0399",
+    "storage_bucket": "fir-form-b0399.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320082352995:android:1727810ce025908cbed156",
+        "android_client_info": {
+          "package_name": "com.example.formulaire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320082352995-8eab7u1b4ppoqk00lujt83srohmn6l3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQWaKJE2VuvIn1g-O-l7Y2w3tMCAXmaiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320082352995-8eab7u1b4ppoqk00lujt83srohmn6l3r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "320082352995-cudcqan0j6mffbgv4n6u148e5fpnsqld.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.formulaire.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
